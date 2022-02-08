@@ -12,3 +12,4 @@ console.log(absolute)
 
 const absolute2=path.resolve(__dirname,'dir1','/dir2','dir3','file2.txt')
 console.log(absolute2)
+console.log('Making Some Change')
